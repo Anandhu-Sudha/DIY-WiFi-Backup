@@ -1,5 +1,5 @@
 # DIY-WiFi-Backup
-Wi-Fi backup using power bank & Decoy Module.
+Wi-Fi backup using power bank & Decoy Module
 
 February-2025
 
